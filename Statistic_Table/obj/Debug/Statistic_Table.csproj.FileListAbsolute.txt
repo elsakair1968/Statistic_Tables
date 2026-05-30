@@ -1,0 +1,13 @@
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\bin\Debug\Statistic_Table.exe.config
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\bin\Debug\Statistic_Table.exe
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\bin\Debug\Statistic_Table.pdb
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.csproj.AssemblyReference.cache
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.Prosecution_Partial.resources
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.Properties.Resources.resources
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.csproj.GenerateResource.cache
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.csproj.CoreCompileInputs.cache
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.exe
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statistic_Table.pdb
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Prox_P9\source\Statistic_Tables\Statistic_Table\Statistic_Table\obj\Debug\Statisti.BE2371C0.Up2Date
